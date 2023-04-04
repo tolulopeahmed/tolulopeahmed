@@ -1,7 +1,7 @@
 - 👋 Hi guys, Tolulope Ahmed, aka Dr. Tee! 
-- 👀 I’m interested in fintech and education. 
-- 🌱 I’m currently learning php 
-- 💞️ I’m looking to collaborate on several ideas for schools and organizations. 
+- 👀 Product developer (UX Expert, React Native) for the MyFund Enterprise Mobile App
+- 🌱 Currently on the fullstack development journey. 
+- 💞️ Looking for collaboration to build more successful apps.
 
 Whatsapp 
 https://wa.me/2348033924595 
