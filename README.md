@@ -1,7 +1,8 @@
 - 👋 Hi guys, Tolulope Ahmed, aka Dr. Tee! 
-- 👀 Product developer (UX Expert, React Native) for the MyFund Enterprise Mobile App
-- 🌱 Currently on the fullstack development journey. 
+- 👀 Full stack developer, UX Expert and Product Manager for the MyFund Enterprise Mobile App (React, React Native, Python, Django)
+- 🌱 Currently on the Dev-Ops development journey. 
 - 💞️ Looking for collaboration to build more successful apps.
+- BSc., MSc., MBA, EMBA, PMP
 
 Whatsapp 
 https://wa.me/2348033924595 
